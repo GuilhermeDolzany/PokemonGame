@@ -27,14 +27,16 @@ Este projeto foi construido em Python e serve como uma excelente demonstracao de
    git clone [https://github.com/GuilhermeDolzany/PokemonGame.git](https://github.com/GuilhermeDolzany/PokemonGame.git)
 
 2. Navegue ate o diretorio do projeto:
-
-  cd PokemonGame
+```bash
+cd PokemonGame
+```
 
 Execute o arquivo principal:
 
 3. Execute o arquivo principal:
-
+```bash
   python main.py
+```
 
 Nota: Dependendo do seu sistema, o comando pode ser python3 main.py)
 
